@@ -26,10 +26,10 @@ def getPosts(MASTER_LIST):
     # instaloader
     L = instaloader.Instaloader()  # instaloader access
     # #login to your recon_account to scrap private accounts you follow
-    L.login("reconbot7012", "JW22kicker")
+    L.login("usernamehere", "passwordhere")
 
     # get the list of people your Recon Account follows
-    recon_profile = Profile.from_username(L.context, "reconbot7012")
+    recon_profile = Profile.from_username(L.context, "usernamehere")
 
     # List of usernames
 
