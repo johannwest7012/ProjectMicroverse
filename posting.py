@@ -43,7 +43,7 @@ def main():
     random.shuffle(jpg_path_list)
 
     bot = Bot()
-    bot.login(username="step_meme_noo", password="JW22kicker")
+    bot.login(username="usernamehere", password="passwordhere")
 
     # for loop this later
     for i in range(len(jpg_path_list) - 1):
