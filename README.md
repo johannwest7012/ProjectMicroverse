@@ -7,7 +7,3 @@ It utilizes an API call and python libraries to first collect data from Instagra
 Then, it reformats the posts so they can then be posted to another Instagram account. 
 
 The final part is the scheduled posting of the items in the directory. Captions can be generated easily, pulling from either a collection of templated captions or creating a customized caption such as crediting the original poster of the account.
-
-The ethicality of this is debatable, since you are reposting content already present on Instagram, but the rebuttal to this is that a large portion of posts on instagram, especially in the area this would most likely operate in (meme pages, fan pages, etc), are reposts anyway; this program just does it more efficiently. 
-
-Regardless, all of those who might judge me for this can sleep soundly knowing it was never actually utilized to any extent other than testing for functionality. It still however was a fun project that improved my skills in directory management and API calls.  
